@@ -1,1 +1,20 @@
+<bug_report>
 
+<ID>01.etagi.com</ID>
+<Summary>На сайте частично информация на русском при смене языка на английский</Summary>
+<Description>При смене языка в разделе new Buildings информация частично на русском языке
+Воспроизведено в Google Chrome v 98.0.4758.102
+Фактический результат: Информация частично представлена на русском языке
+Ожидаемый результат: Вся информация представлена на английском языке.</Description>
+  <Steps>1. Зайти на сайт https://minsk.etagi.com/
+2. Сменить  язык на английский в верхнем правом углу, нажать  Сохранить
+3. Выбрать  New Buildings
+4. Нажать  на выбранный жилищный комплекс
+5. Частичная локализация- некоторые слова указаны на русском языке</Steps>
+  <Severity>medium</Severity>
+  <Priority>normal</Priority>
+  <Reproducibility>always</Reproducibility>
+  <Comments>no</Comments>
+  <Attachments>no</Attachments>
+
+</bug_report>
